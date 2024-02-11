@@ -1,0 +1,21 @@
+/* camera */
+video {
+  position: absolute;
+  margin:0;
+}
+
+canvas {
+  position: relative;
+  margin:0;
+}
+.item{
+  height: 100vh;
+}
+.resources-container{
+  height: 100vh;
+  overflow-y: scroll;
+}
+.intro{
+  background-color: rgb(5, 4, 16);
+  color: white;
+}
